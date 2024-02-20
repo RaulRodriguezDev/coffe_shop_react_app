@@ -254,37 +254,37 @@ const products = [
     {
         name: "Cheesecake (4 slices)",
         price: 69.9,
-        image: "pasteles_01",
+        image: "pastel_01",
         categoryId: 5
     },
     {
         name: "Especial Waffle",
         price: 49.9,
-        image: "pasteles_02",
+        image: "pastel_02",
         categoryId: 5
     },
     {
         name: "House Croissants",
         price: 39.9,
-        image: "pasteles_03",
+        image: "pastel_03",
         categoryId: 5
     },
     {
         name: "Cheesecake",
         price: 19.9,
-        image: "pasteles_04",
+        image: "pastel_04",
         categoryId: 5
     },
     {
         name: "Chocolate Cake",
         price: 29.9,
-        image: "pasteles_05",
+        image: "pastel_05",
         categoryId: 5
     },
     {
         name: "Chocolate Cake (Slice)",
         price: 19.9,
-        image: "pasteles_06",
+        image: "pastel_06",
         categoryId: 5
     },
     {
