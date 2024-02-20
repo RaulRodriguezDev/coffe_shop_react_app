@@ -1,10 +1,15 @@
 import Image from 'next/image'
 import { Inter } from 'next/font/google'
+import Layout from '@/layout/Layout'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
-    <h1>Netx.js</h1>
+    <>
+      <Layout>
+        new index
+      </Layout>
+    </>
   )
 }
